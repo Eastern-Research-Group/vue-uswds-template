@@ -1,5 +1,7 @@
 # vue-uswds-template
 
+Starter code for building an app with Vue.js and the [United States Web Design System](https://designsystem.digital.gov/documentation/developers/)
+
 ## Project setup
 ```
 npm install
@@ -7,7 +9,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start
 ```
 
 ### Compiles and minifies for production
@@ -17,7 +19,7 @@ npm run build
 
 ### Run your unit tests
 ```
-npm run test:unit
+npm test
 ```
 
 ### Lints and fixes files
